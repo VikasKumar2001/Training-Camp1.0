@@ -1,0 +1,7 @@
+House Price Prediction is a machine learning problem in which the goal is to predict the sale price of a house based on various features such as location, size, number of bedrooms, number of bathrooms, and others. This problem is commonly used for demonstrating regression algorithms in machine learning and data analysis.
+
+The dataset used for this problem typically includes information about houses that have been sold in a particular area, along with their sale prices and various features such as location, size, number of bedrooms, number of bathrooms, and others. The goal is to train a model on this data that can accurately predict the sale price of a house based on its features.
+
+House Price Prediction is a challenging problem, as the sale price of a house can be influenced by a wide range of factors, including location, size, condition, and the local real estate market. As a result, the solution to this problem requires a combination of feature engineering, data cleaning, and the application of appropriate machine learning algorithms.
+
+Overall, House Price Prediction is a good opportunity for students and professionals to practice and develop their skills in data analysis and machine learning, as it provides a realistic and challenging problem that requires a combination of technical and analytical skills.
